@@ -25,10 +25,16 @@ Lambda
   * Python (2.7,3.6)
 * understand core types of lambda triggers
   * API Gateway
+  * AWS IoT
   * Alexa Skills Kit
-  * Cloudfront
-  * CloudWatch
+  * Alexa Smart Home
+  * CloudFront
+  * CloudWatch Events
+  * CloudWatch Logs
+  * CodeCommit
+  * Cognito Sync Trigger
   * DynamoDB
+  * Kinesis
   * S3
   * SNS
 * Pricing
