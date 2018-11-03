@@ -11,3 +11,4 @@ AWS Certified Solutions Architect - Studyguide
 * [Elastic Transcoder](elastic_transcoder.md)
 * [API Gateway](api_gateway.md)
 * [Kinesis](kinesis.md)
+* [Whitepapers](whitepapers.md)
