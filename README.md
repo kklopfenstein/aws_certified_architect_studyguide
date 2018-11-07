@@ -12,3 +12,4 @@ AWS Certified Solutions Architect - Studyguide
 * [API Gateway](api_gateway.md)
 * [Kinesis](kinesis.md)
 * [Whitepapers](whitepapers.md)
+* [Additional exam tips](additional_exam_tips.md)
