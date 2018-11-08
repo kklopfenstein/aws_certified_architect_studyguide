@@ -13,3 +13,4 @@ AWS Certified Solutions Architect - Studyguide
 * [Kinesis](kinesis.md)
 * [Whitepapers](whitepapers.md)
 * [Additional exam tips](additional_exam_tips.md)
+* [Quiz Notes](quiz_notes.md)
